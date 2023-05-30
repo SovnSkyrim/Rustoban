@@ -6,4 +6,4 @@ use make to build the game.
 
 ./rustoban map
 
-![](https://imgur.com/bHxR9Zy)
+![example](https://i.imgur.com/bHxR9Zy.png)
